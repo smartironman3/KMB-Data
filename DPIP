@@ -1,0 +1,40 @@
+{
+  "Groutedata": [
+    {
+      "number": 0,
+      "route": "KMB",
+      "destZ": "暫停服務",
+      "destY": "暫停服務",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "maxPY": "1",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"
+    },
+    {
+      "number": 1,
+      "route": "214",
+      "destZ": "長沙灣甘泉街",
+      "destY": "油塘",
+      "maxPZ": "1",
+      "priceZ1": "6.5",
+      "halfpriceZ1": "3.3",
+      "maxPY": "1",
+      "priceY1": "6.5",
+      "halfpriceY1": "3.3"
+    },
+    {
+      "number": 2,
+      "route": "216M",
+      "destZ": "藍田站",
+      "destY": "藍田站X",
+      "maxPZ": "1",
+      "priceZ1": "5.0",
+      "halfpriceZ1": "2.5",
+      "maxPY": "1",
+      "priceY1": "5.0",
+      "halfpriceY1": "2.5"
+    }
+  ]
+  }
